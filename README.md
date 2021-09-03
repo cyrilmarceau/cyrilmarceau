@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web application in python and Next.js
+- 🔭 I’m currently working on web application in Python for the back-end and Next.js for the front-end
 - 🌱 I’m currently learning TypeScript, Django REST framework and Bash script and in a second time: Unit tests, Integration tests etc | TDD, BDD | Clean architecture | Hexagonal architecture
 - 👯 I’m looking to collaborate on [Fig](https://fig.io/)
 <!--
