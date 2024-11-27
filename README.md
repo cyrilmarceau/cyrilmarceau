@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 Working on mobile application in Python for the back-end and Swift
+- 🔭 Working on mobile application with Fast API for the back-end and Swift and SwiftUI
 - 💬 Working on clean architecture on React native app
 - 😄 A future learning of Jetpack Compose for the creation of mobile applications in Kotlin
-
+- Also interested to contribute on multiple React Native packages
 ---
 ### My Stats :
 
