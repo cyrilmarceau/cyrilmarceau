@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on mobile application in Python for the back-end and Flutter
-- 🌱 I’m currently create a Flutter boilerplate with REST API and authentication flow (signup, login, guard route...)
+- 🔭 Working on mobile application in Python for the back-end and Swift
+- 💬 Working on clean architecture on React native app
+- 😄 A future learning of Jetpack Compose for the creation of mobile applications in Kotlin
 
 ---
 ### My Stats :
