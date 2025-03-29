@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 Working on mobile application with Fast API for the back-end and Swift and SwiftUI
-- 💬 Working on clean architecture on React native app
-- 😄 A future learning of Jetpack Compose for the creation of mobile applications in Kotlin
-- Also interested to contribute on multiple React Native packages
+- 🔭 Working on two mobile applications with FastAPI for the back-end and React Native (Expo)
+- 💬 Looking to develop two basic templates with FastAPI and Expo (Zustand, TanStack, MMKV) to speed up development and avoid wasting time on setup
+- 😄 In parallel, I am learning Jetpack Compose for building mobile applications in Kotlin
+- 🚀 Also interested in contributing to various React Native packages (Expo UI)
+
 ---
 ### My Stats :
 
